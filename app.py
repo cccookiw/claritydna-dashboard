@@ -166,10 +166,3 @@ st.markdown("""
 - These results are meant to support conversations with healthcare professionals.
 """)
 
-# Disclaimer
-st.subheader("Important Notice")
-st.error("""
-This dashboard is for education and communication purposes only.
-It does not replace professional medical advice, diagnosis, or treatment.
-Genetic findings should always be interpreted by a qualified healthcare professional.
-""")
